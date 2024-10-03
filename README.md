@@ -1,2 +1,2 @@
-# write
-static json to consume as API
+# Write
+static jsons used to consume like an API
